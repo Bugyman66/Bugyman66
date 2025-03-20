@@ -48,7 +48,7 @@ My mission is to **bring digital transformation to underdeveloped areas and empo
 ---
 
 📬 **Let's Connect!**
- 🐦 [Twitter](https://x.com/bugyman66?t=WVKROFVfyKoSpwERK5Jg7Q&s=09) | 🔗 [Virtualconnekt](https://virtualconnekt.com.ng) | 📩 [Email](saidabbaahmad@gmail.com)  <br/>
+ 🐦 [Twitter](https://x.com/bugyman66?t=WVKROFVfyKoSpwERK5Jg7Q&s=09) | 🔗 [Virtualconnekt](https://virtualconnekt.com.ng) | 📩 [Email](mailto:saidabbaahmad@gmail.com)  <br/>
 
 💡 _"Tech is the future, and I’m here to build it."_  
 
